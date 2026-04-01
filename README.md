@@ -1,4 +1,4 @@
-# 6_MULTI_AGENTS Optimized
+# MULTI_AGENT Optimization
 
 Multi-agent workflow built with LangGraph for researching industry reports, extracting insights, ranking them, generating marketing content, and optionally distributing posts to Facebook.
 
