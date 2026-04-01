@@ -1,4 +1,4 @@
-# MULTI_AGENT Optimization
+# Multi-Agent RAG System for Marketing Automation
 
 Multi-agent workflow built with LangGraph for researching industry reports, extracting insights, ranking them, generating marketing content, and optionally distributing posts to Facebook.
 
