@@ -25,7 +25,7 @@ Nodes are defined in [src/agent/graph.py](src/agent/graph.py):
 ### Install
 
 ```bash
-cd d:/projects/6_multi_agents_optimized
+cd d:/projects/multi_agents_optimized
 pip install -e . "langgraph-cli[inmem]"
 ```
 
