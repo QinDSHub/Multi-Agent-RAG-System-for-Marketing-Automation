@@ -13,12 +13,12 @@ Multi-agent workflow built with LangGraph for researching industry reports, extr
 
 Nodes are defined in [src/agent/graph.py](src/agent/graph.py):
 
-1. research: search and build retriever
-2. map: extract raw insights
-3. reduce: synthesize strategic insights
-4. rank: score and order insights
-5. content_generator: generate marketing content
-6. distributor: post to Facebook (optional, gated)
+- research: search and build retriever
+- map: extract raw insights
+- reduce: synthesize strategic insights
+- rank: score and order insights
+- content_generator: generate marketing content
+- distributor: post to Facebook (optional, gated)
 
 ## Setup
 
